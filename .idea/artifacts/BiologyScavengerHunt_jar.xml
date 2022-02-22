@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BiologyScavengerHunt:jar">
+    <output-path>$PROJECT_DIR$/build/</output-path>
+    <root id="archive" name="BiologyScavengerHunt.jar">
+      <element id="module-output" name="BiologyScavengerHunt" />
+    </root>
+  </artifact>
+</component>
